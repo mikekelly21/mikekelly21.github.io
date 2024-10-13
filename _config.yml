@@ -30,7 +30,7 @@ twitter_username: thisismikekelly
 github_username:  mikekelly21
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
